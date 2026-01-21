@@ -1,16 +1,19 @@
-## Hi there 👋
+## WELCOME TO MY GITHUB 👋
 
-<!--
-**TheCodingHustler/TheCodingHustler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![IMG_6220](https://github.com/user-attachments/assets/6966f0d1-af89-49d5-8ed8-cfed3d6a87d4)
 
-Here are some ideas to get you started:
+## ABOUT ME 
+I'm a student at the College of Staten Island majoring in Computer Science! My goal is to work as a data analyst at a big company like google 👀!!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## MY SKILLS 
+C++, web development, sql, python 
+
+
+
+- 🔭 I’m currently working on ALPHA BRND
+- 🌱 I’m currently learning advanced data manipulation with python and sql
+- 👯 I’m looking to collaborate on: hackathons 👀
+- 📫 How to reach me: https://www.linkedin.com/in/amadou-barrie-b5bbb5294/ (my linkedin)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: No one beating me in xenoverse or ninja storm ifykyk
+
