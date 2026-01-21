@@ -1,6 +1,6 @@
 ## WELCOME TO MY GITHUB 👋
+![IMG_4284](https://github.com/user-attachments/assets/bd30a738-e998-4bcf-9cd3-6f95bb863467)
 
-![IMG_6220](https://github.com/user-attachments/assets/6966f0d1-af89-49d5-8ed8-cfed3d6a87d4)
 
 ## ABOUT ME 
 I'm a student at the College of Staten Island majoring in Computer Science! My goal is to work as a data analyst at a big company like google 👀!!
