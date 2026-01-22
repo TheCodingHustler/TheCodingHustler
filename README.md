@@ -1,5 +1,6 @@
 ## WELCOME TO MY GITHUB 👋
-![IMG_4284](https://github.com/user-attachments/assets/bd30a738-e998-4bcf-9cd3-6f95bb863467)
+<img src="https://github.com/user-attachments/assets/021f4bdc-1c1e-42d4-b240-26b808ec6fd3" width="300" />
+
 
 
 ## ABOUT ME 
